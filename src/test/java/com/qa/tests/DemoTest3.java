@@ -30,8 +30,8 @@ Assert.assertEquals(200, a*b);
 }
 @Test
 public void div() {
-	int a=10;
-	int b=20;
+	int a=20;
+	int b=40;
 	System.out.println("DIV");
 Assert.assertEquals(2, b/a);
 }
